@@ -1,5 +1,5 @@
 
-This is my 14 hours lectures on Data Analysis ans Visualization teaching at Department of Space and Applications (DSA), University of Science and Technology of Hanoi (USTH). Lectures are associated with Python Jupyter Notebooks.
+This is my 14 hours lectures on Data Analysis and Visualization teaching at Department of Space and Applications (DSA), University of Science and Technology of Hanoi (USTH). Lectures are associated with Python Jupyter Notebooks.
 
 
 ## Lecture 0: Introduction to Jupyter notebook and Python [part1](https://github.com/hoangducthuong/DataAnalysis_Visualization/blob/f7c773bab1f58a1362bca02636a4324651cdc2da/Lec0_Intro_Notebook_and_Python_part1.ipynb), and [part 2](https://github.com/hoangducthuong/DataAnalysis_Visualization/blob/f7c773bab1f58a1362bca02636a4324651cdc2da/Lec0_Intro_Notebook_and_Python_part2.ipynb)
