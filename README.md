@@ -27,8 +27,8 @@ This is my 14 hours lectures on Data Analysis and Visualization teaching at Depa
 
 
 
-#### References
+### References
 
-#### Practical Statistics for Astronomers - Wall & Jenkins
-#### Book: Statistical Methods in Experimental Physics - Frederick James
-#### http://astronomy.swin.edu.au/~cblake/stats.html (Statistics course-Swinburne University)
+[1] Practical Statistics for Astronomers - Wall & Jenkins
+[2] Book: Statistical Methods in Experimental Physics - Frederick James
+[3] http://astronomy.swin.edu.au/~cblake/stats.html (Statistics course-Swinburne University)
